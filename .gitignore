@@ -1,1 +1,7 @@
 .ftb_env
+data
+kaggle.json
+.env
+datasets
+runs
+*.pt
